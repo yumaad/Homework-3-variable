@@ -8,7 +8,8 @@ public class Main {
         long fourthVar = 20000000L;
         float fifthVar= 15.25f;
         double sixthVar = 150;
-        System.out.println("1 задание\n" + "Значение переменной firstVar с типом int равно " + firstVar);
+        System.out.println("1 задание\n");
+        System.out.println("Значение переменной firstVar с типом int равно " + firstVar);
         System.out.println("Значение переменной secondVar с типом byte равно " + secondVar);
         System.out.println("Значение переменной thirdVar с типом short равно " + thirdVar);
         System.out.println("Значение переменной fourthVar с типом long равно " + fourthVar);
